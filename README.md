@@ -1,3 +1,4 @@
+
 # 晨鑫调解中心管理系统 (Customer Service Management System)
 
 A modern customer service management system built with React, Vite, and Shadcn UI. This application provides an interface for managing customer cases, mediations, and customer relationships.
@@ -56,4 +57,4 @@ The project follows a component-based architecture:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
